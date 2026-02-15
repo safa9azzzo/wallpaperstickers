@@ -1,0 +1,65 @@
+{
+  "wallpaper_api": [
+    {
+      "category": "Ramadan",
+      "images": [
+        {
+          "id": "nat_remote_01",
+          "title": "Emerald Valley",
+          "url": "https://images.unsplash.com/photo-1770009079291-82b8a594ee23?q=80&w=709&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "nat_remote_02",
+          "title": "Crimson Peak",
+          "url": "https://images.unsplash.com/photo-1600814832809-579119f47045?q=80&w=731&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    },
+    {
+      "category": "Eid moubarak",
+      "images": [
+        {
+          "id": "abs_remote_01",
+          "title": "Digital Ether",
+          "url": "https://plus.unsplash.com/premium_photo-1678129531809-0b4c24671913?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "abs_remote_02",
+          "title": "Liquid Geometry",
+          "url": "https://plus.unsplash.com/premium_photo-1678236886582-70c1e00b6b8d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    },
+    {
+      "category": "Mosque",
+      "images": [
+        {
+          "id": "arc_remote_01",
+          "title": "Urban Span",
+          "url": "https://plus.unsplash.com/premium_photo-1678459929692-a3544b07428b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "arc_remote_02",
+          "title": "Glass Monolith",
+          "url": "https://plus.unsplash.com/premium_photo-1678483063222-b9cbc116b371?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    },
+    {
+      "category": "Minimal",
+      "images": [
+        {
+          "id": "min_remote_01",
+          "title": "Silent Horizon",
+          "url": "https://plus.unsplash.com/premium_photo-1678483063222-b9cbc116b371?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "min_remote_02",
+          "title": "Paper Texture",
+          "url": "https://plus.unsplash.com/premium_photo-1678483063222-b9cbc116b371?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    }
+  ]
+}
+
